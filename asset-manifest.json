@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AVATAR-GENERATOR/static/css/main.decd0219.css",
+    "main.js": "/AVATAR-GENERATOR/static/js/main.4e019077.js",
+    "index.html": "/AVATAR-GENERATOR/index.html",
+    "main.decd0219.css.map": "/AVATAR-GENERATOR/static/css/main.decd0219.css.map",
+    "main.4e019077.js.map": "/AVATAR-GENERATOR/static/js/main.4e019077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decd0219.css",
+    "static/js/main.4e019077.js"
+  ]
+}
